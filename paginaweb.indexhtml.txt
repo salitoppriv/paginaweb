@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Tecnología e Informática</title>
+
+<style>
+
+body{
+background:#dff6ff;
+font-family:Arial,Helvetica,sans-serif;
+margin:40px;
+}
+
+h1{
+color:darkblue;
+font-size:55px;
+text-align:center;
+}
+
+h2{
+color:#006400;
+font-size:35px;
+}
+
+h3{
+color:#8B0000;
+font-size:28px;
+}
+
+p{
+font-size:20px;
+text-align:justify;
+}
+
+img{
+border-radius:15px;
+box-shadow:5px 5px 10px gray;
+margin:10px;
+}
+
+a{
+font-size:22px;
+color:blue;
+font-weight:bold;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>TECNOLOGÍA E INFORMÁTICA</h1>
+
+<p>
+La tecnología ha transformado la manera en que las personas estudian, trabajan
+y se comunican. Actualmente utilizamos Internet, computadores y teléfonos
+inteligentes para realizar múltiples actividades diariamente.
+</p>
+
+<hr>
+
+<h2>Lista Numerada</h2>
+
+<ol>
+
+<li>Computador</li>
+
+<li>Internet</li>
+
+<li>Inteligencia Artificial</li>
+
+<li>Celulares</li>
+
+<li>Robótica</li>
+
+</ol>
+
+<hr>
+
+<h2>Lista No Numerada</h2>
+
+<ul>
+
+<li>Educación Virtual</li>
+
+<li>Programación</li>
+
+<li>Videojuegos</li>
+
+<li>Redes Sociales</li>
+
+<li>Computación en la nube</li>
+
+</ul>
+
+<hr>
+
+<h2>Glosario</h2>
+
+<dl>
+
+<dt><b>Hardware</b></dt>
+
+<dd>Parte física de un computador.</dd>
+
+<br>
+
+<dt><b>Software</b></dt>
+
+<dd>Programas que utiliza un computador.</dd>
+
+<br>
+
+<dt><b>Internet</b></dt>
+
+<dd>Red mundial de computadoras.</dd>
+
+<br>
+
+<dt><b>HTML</b></dt>
+
+<dd>Lenguaje utilizado para crear páginas web.</dd>
+
+</dl>
+
+<hr>
+
+<h2>Imágenes</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="250">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="220">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="160">
+
+<hr>
+
+<h2>Video Explicativo</h2>
+
+<p>
+Haz clic en el siguiente enlace para ver un video explicativo sobre HTML:
+</p>
+
+<a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">
+▶ Ver video explicativo de HTML
+</a>
+
+<hr>
+
+<h2>Ir a otra página</h2>
+
+<p>
+
+<a href="https://www.google.com" target="_blank">
+
+Visitar Google
+
+</a>
+
+</p>
+
+<hr>
+
+<h2>Conclusión</h2>
+
+<p>
+
+El aprendizaje de HTML permite desarrollar páginas web modernas, organizadas
+e interactivas. Además, conocer las herramientas tecnológicas ayuda a mejorar
+las habilidades digitales necesarias para el estudio y el trabajo.
+
+</p>
+
+</body>
+
+</html>
